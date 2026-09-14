@@ -1,0 +1,13 @@
+{
+  "name": "mso-api-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy con caché de la API MSO (kpi.red.com.sv) para el Dashboard Intelfon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

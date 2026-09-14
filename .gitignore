@@ -1,0 +1,8 @@
+# Secretos — NUNCA subir al repositorio
+.env
+.env.local
+
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
